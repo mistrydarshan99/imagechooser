@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Chooseimage</string>
+    <string-array name="chooser">
+        <item>Choose from Camera </item>
+        <item>Choose from Gallery</item>
+    </string-array>
+    <string name="alert_sd_card_not_mounted">SD Card not mounted.</string>
+    <string name="alert">Alert</string>
+    <string name="alert_device_not_support_camera">Device not support camera.</string>
+    <string name="alert_no_space_available_on_sd_card">No space available on SD Card.</string>
+    <string name="alert_invalid_file">Invalid file.</string>
+    <string name="ok">OK</string>
+
+</resources>

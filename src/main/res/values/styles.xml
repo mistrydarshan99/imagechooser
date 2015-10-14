@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppCompatAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/text_dark_grey</item>
+        <item name="android:textColorPrimary">@color/text_light_grey</item>
+        <item name="android:background">@color/windowBackground</item>
+    </style>
+
+</resources>
